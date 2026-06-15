@@ -1,17 +1,38 @@
-# affirmations_app
+# Flutter Arabic Affirmations
 
-A new Flutter project.
+A responsive Flutter application designed to promote positivity and motivation through a collection of Arabic affirmations. Users can interact with affirmation cards, track repetition counts, and enjoy a clean, modern, and mobile-friendly interface.
+
+## Features
+
+- Arabic positive affirmations
+- Individual repetition counters
+- Reset functionality for each affirmation
+- Responsive layout for mobile, tablet, and desktop
+- Modern Material Design UI
+- Google Fonts integration (Cairo)
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+- Google Fonts
+
+## Screenshots
+
+(Add screenshots here)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/Jiovanni-k/flutter-arabic-affirmations.git
+cd flutter-arabic-affirmations
+flutter pub get
+flutter run
